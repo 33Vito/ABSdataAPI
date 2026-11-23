@@ -164,7 +164,7 @@ Both `CPI` (2.0.0) and `CPI_Q` (1.0.0) are **active** — they serve different s
 Entries below use IDs drawn from the Indicator API spec or community sources. **Provenance: unverified.** Query `/rest/dataflow/ABS/{ID}?format=json-structure-2.0.0` before relying on them.
 
 | Dataset | Candidate ID | Cat No. (candidate) | Freq | Notes |
-|---|---|---|---|---|---|
+|---|---|---|---|---|
 | Retail Trade (ceased) | `RT` | 8501.0 | M | CEASED — metadata confirmed on 2026-11-23, historical data reachable. |
 | Monthly CPI Indicator (ceased) | `CPI_M` | 6484.0 | M | CEASED — metadata confirmed on 2026-11-23, 2017-2024 historical reachable. |
 | Household Spending Indicator | `HSI_M` | 5682.0 | M | Candidate — verify ID. |
